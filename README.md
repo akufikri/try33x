@@ -1,4 +1,8 @@
-# try33x
+# try33x - AI-powered YouTube Short Clipper CLI.
+
+![SCR-20260405-meih](https://github.com/user-attachments/assets/cde09240-ff98-4795-a060-6d2fc1200e0b)
+![SCR-20260405-mfte](https://github.com/user-attachments/assets/fb68a35d-a316-465b-a6ee-8eb44d095532)
+
 
 AI-powered YouTube Short Clipper CLI. Paste a YouTube URL and get ready-to-upload Short clips — auto-detected highlights, portrait crop, burned-in karaoke subtitles, and generated metadata.
 
