@@ -1,0 +1,11 @@
+node_modules/
+dist/
+output/
+.env
+*.mp4
+*.vtt
+*.srt
+*.ass
+
+# Sticker assets (vibe style) — too large for git, ship separately
+assets/
