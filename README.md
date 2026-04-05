@@ -4,6 +4,8 @@
 ![SCR-20260405-mfte](https://github.com/user-attachments/assets/fb68a35d-a316-465b-a6ee-8eb44d095532)
 
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/akufikri)
+
 AI-powered YouTube Short Clipper CLI. Paste a YouTube URL and get ready-to-upload Short clips — auto-detected highlights, portrait crop, burned-in karaoke subtitles, and generated metadata.
 
 ```
@@ -156,6 +158,14 @@ bun run test-caption <video.mp4> [subtitle.vtt] [--style hype] [--start 0] [--en
 - **yt-dlp** (YouTube download)
 - **Claude / GPT-4o** (highlight detection + metadata)
 - **Whisper** (speech-to-text fallback)
+
+---
+
+## Support
+
+If try33x saves you time, consider buying me a coffee — it helps keep this project alive and growing.
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/akufikri)
 
 ---
 
